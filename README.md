@@ -1,2 +1,5 @@
 # smhi-weather
-Provides some friendly functions to fetch data from SMHI:s open data api
+
+Provides some friendly functions to fetch data from SMHI:s open data api.
+
+The source off all data provided is [SMHI](http://opendata.smhi.se/apidocs/metfcst/index.html). 
