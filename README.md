@@ -1,7 +1,7 @@
 # smhi-weather
 
 [![PyPI version](https://badge.fury.io/py/smhi-weather.svg)](https://badge.fury.io/py/smhi-weather)
-[![Testing](https://github.com/Wesztman/smhi-weather/actions/workflows/python-app.yml/badge.svg)](https://github.com/Wesztman/smhi-weather/actions/workflows/python-app.yml)
+[![Testing](https://github.com/Wesztman/smhi-weather/actions/workflows/testing.yml/badge.svg)](https://github.com/Wesztman/smhi-weather/actions/workflows/testing.yml)
 
 Provides some friendly functions to fetch data from SMHI:s open data api.
 
