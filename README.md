@@ -31,3 +31,7 @@ SmhiWeather(59.334591, 18.063240).get_forecast(save_to_file=True)
 ```
 
 For now a single function exists which return a full forecast according to SMHI:s docs on [Get Point Forecast](http://opendata.smhi.se/apidocs/metfcst/get-forecast.html).
+
+<p>
+  <h1 align="right"><b>🦆<img src="" alt="" width="100"></h1>
+</p>
