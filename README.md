@@ -22,7 +22,7 @@ forecast = SmhiWeather(59.334591, 18.063240).get_forecast()
 print(forecast)
 ```
 
-Forecast data can also be save to a file called `forecast.json` with
+Forecast data can also be saved to a file called `forecast.json` with
 
 ```
 from smhi_weather import SmhiWeather
